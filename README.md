@@ -1,8 +1,9 @@
 # resonant-cavity
 
-rectangular reflective resonant cavity wave simulation and animation
+rectangular reflective resonant cavity wave simulation and animation engine
 
 requires:
 
-armadillo linear algebra library
-open cv
+1) [armadillo](http://arma.sourceforge.net/) C++ linear algebra library
+
+2) [OpenCV](http://opencv.org/)
