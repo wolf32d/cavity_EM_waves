@@ -1,8 +1,8 @@
-# resonant-cavity
+# cavity_EM_waves
 
-rectangular reflective resonant cavity wave simulation and animation engine
+Simulation and animation engine for electromagnetic (EM) waves confined in a 2D rectangular cavity with totally reflecting walls.
 
-requires:
+requered library for compilaton (GNU/Linux):
 
 1) [armadillo](http://arma.sourceforge.net/) C++ linear algebra library
 
